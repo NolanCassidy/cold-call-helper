@@ -6,18 +6,6 @@ in a fair way.
 
 **Screenshots**
 
-![https://lh4.googleusercontent.com/77r7CITnsevw_fN6ttt9JJLvY7z6KN2U0emk72Hz7-VmIca0l5Z4xlHAMqMzGAE_Oxt2hKImUC14IUSp7dSAWL6BJ0FW1AYvNY0juOt8pkODXjEygPukkere8fn8QQTYDiI0AF8E](media/d808431b9b1f85b2377e74fd1b16ad57.png)
-
-![https://lh5.googleusercontent.com/yljzN8dn2D9XNUOoI2PboJa9rmAwqPxzeRSmnsA58Cg0o2Atu0bcjguZ3gwn9Jm-AcVNdgHYSg3QzUHBkU134dwa4lOh9WxcpnqUH4CdS5tYU1wO9fX37ageWR4VMIbx7EQuYhYk](media/55c3170b91bbd82b74357a2ee3821771.png)
-
-![https://lh6.googleusercontent.com/ZzSdTkvEPXdRV3QRi0hk23v_uENi1RRFVU65jcCLzmDws7jmbxodSwS8SOqKcOacrshydynYu5E0KnzIz3FRNDDsHdKssh8LbBssyubdOSHH4qag2-Mtr9NmDSz9gF1EevoY6zJF](media/7f151f906e0514ac0a9d78f30a087909.png)
-
-![https://lh4.googleusercontent.com/so3njk6M28mE48t6dH3HduQuwq5WEr0g7EJ5EOGVvbnQxYVD6MopaDF2NrrXEswnZsLFtCH6jdp0JzeWk8hH5Ibz_1VcCnFDV-a8K6NL88Jt9TtDjIetz0RjZA9qlK3uOG-NclGr](media/b126bf41307c7225b3c172a9689dfb61.png)
-
-![](media/0c352f964334cf1aec61022680901759.png)
-
-![](media/45ee35d51c256d8f6d901ba652680679.png)
-
 **Tech/framework used**
 
 **Built with**
