@@ -1,6 +1,6 @@
 **Project title**
 
-Cold Call Helper is a program to help an instructor randomly call on students in a fair way.
+Cold Call Helper is a program to help an instructor randomly call on students in a fair way. (randomly but equally)
 
 **Screenshots**
 ![coldcall6](https://user-images.githubusercontent.com/22786772/57169506-02d05e00-6dbc-11e9-87d7-a78dbd981737.png)
