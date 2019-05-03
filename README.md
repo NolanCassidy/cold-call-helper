@@ -1,10 +1,15 @@
 **Project title**
 
-Cold Call Helper is a program to help an instructor randomly call on students
-
-in a fair way.
+Cold Call Helper is a program to help an instructor randomly call on students in a fair way.
 
 **Screenshots**
+![coldcall6](https://user-images.githubusercontent.com/22786772/57169506-02d05e00-6dbc-11e9-87d7-a78dbd981737.png)
+![coldcall1](https://user-images.githubusercontent.com/22786772/57169507-02d05e00-6dbc-11e9-9bc1-32e47ea9ed1e.png)
+<img width="647" alt="coldcall2" src="https://user-images.githubusercontent.com/22786772/57169508-02d05e00-6dbc-11e9-9e34-595ee222c919.png">
+<img width="380" alt="coldcall3" src="https://user-images.githubusercontent.com/22786772/57169509-02d05e00-6dbc-11e9-9cb6-be52c8ca7cde.png">
+<img width="448" alt="coldcall4" src="https://user-images.githubusercontent.com/22786772/57169510-02d05e00-6dbc-11e9-9dd7-24d7e75e58a9.png">
+![coldcall5](https://user-images.githubusercontent.com/22786772/57169511-0368f480-6dbc-11e9-8405-79980da98ba7.png)
+
 
 **Tech/framework used**
 
@@ -131,9 +136,7 @@ the documentation that a commercial product would need.
 
 **Contributions**
 
-Cold Call Helper was written by Nolan Cassidy, Andrew Evelhoch, Jake Gianola,
-
-Kyle Kincaid, Kylie Quan
+Cold Call Helper was written by Nolan Cassidy, Andrew Evelhoch, Jake Gianola, Kyle Kincaid, Kylie Quan
 
 Date last updated: 4/29/2019
 
